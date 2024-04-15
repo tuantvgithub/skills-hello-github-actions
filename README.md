@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Hello GitHub Actions -> test-workflow
+# Hello GitHub Actions - Yoo!
 
 _Create a GitHub Action and use it in a workflow._
 
